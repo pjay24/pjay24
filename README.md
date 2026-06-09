@@ -1,5 +1,5 @@
 
-Hi, I’m Jay Patel<br>💻B.Tech CSE student at SVNIT<br>🚀 Interested in HPC, CUDA, Genetic Algorithms<br>📚 Exploring AI/ML, system-level optimizations<br>🔧 Love building efficient, scalable solutions and experimenting with performance-driven code<br>
+Hi, I’m Jay Patel<br>💻CSE'26 SVNIT<br>🚀 Interested in HPC, CUDA, Genetic Algorithms<br>📚 Exploring AI/ML, system-level optimizations<br>🔧 Love building efficient, scalable solutions and experimenting with performance-driven code<br>
 
 
 # 💻 Tech Stack:
